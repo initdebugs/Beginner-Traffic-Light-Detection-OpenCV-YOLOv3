@@ -4,7 +4,7 @@ To start, I'm a complete beginner with Computer Vision and I made this project f
 This  version takes any footage (video) and checks frame-by-frame if there're any traffic lights. The program saves the video (with detected (or not) traffic lights) to another video. This works on (most) Dutch traffic lights, and some traffic lights from other countries that look like Dutch traffic lights. Why? Because I trained the model myself, using my own dashcam footage. There are hundreds of images containing traffic lights. I labeled them myself and trained them using the free GPU from Google Colab. This training process took around 9 hours. The AVG loss is around: 0.2
 
 # Project Demo
-
+![](https://media.giphy.com/media/fM58eVgw4CTESbp0hF/giphy.gif)
 
 # Instructions
 1. Install python (https://www.python.org/downloads/)
