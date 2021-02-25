@@ -21,7 +21,7 @@ This  version takes any footage (video) and checks frame-by-frame if there're an
 12. Go to the folder with all the files and copy the file path
 13. Open your terminal again (CMD, Powershell, etc.) and enter the following: `cd path\of\your\files` and press 'enter'
 14. To run the program, enter the following: `python Object_Detection.py` and press 'enter'
-15. If all went well, you should now see your video being analyzed frame-by-frame. It takes a while (depending of the video size/quality) before it's done processing.
+15. If all went well, you should now see your video being analyzed frame-by-frame. It takes a while (depending of the video size/quality) before it's done processing. If you want to exit the program while it's running, press `esc`
 
 I hope the instructions are clear and easy to follow. With every project, I will try to make the instructions as beginner-friendly as possible. 
 
