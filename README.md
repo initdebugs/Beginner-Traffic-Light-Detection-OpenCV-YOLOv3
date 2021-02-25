@@ -1,4 +1,4 @@
-# Dutch-Traffic-Light-Recognition
+# Traffic Light Detection For Beginners Using OpenCV And YOLOv3
 To start, I'm a complete beginner with Computer Vision and I made this project following multiple tutorials. I wanted to create a simple program that would take any input video (in my case, my dashcam footage) and detect/recognize the traffic lights in real-time. For some people, this would be an easy task and would build the program in hours, not me. 
 
 This  version takes any footage (video) and checks frame-by-frame if there're any traffic lights. The program saves the video (with detected (or not) traffic lights) to another video. This works on (most) Dutch traffic lights, and some traffic lights from other countries that look like Dutch traffic lights. Why? Because I trained the model myself, using my own dashcam footage. There are hundreds of images containing traffic lights. I labeled them myself and trained them using the free GPU from Google Colab. This training process took around 9 hours. The AVG loss is around: 0.2
