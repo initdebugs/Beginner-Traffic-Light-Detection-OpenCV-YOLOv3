@@ -13,7 +13,7 @@ This  version takes any footage (video) and checks frame-by-frame if there're an
 4. Extract the .zip file to any folder of your choosing
 5. Open a terminal (CMD, Powershell, ect.)
 6. Type the following command: `pip install opencv-python numpy` and press 'enter'
-7. Download the traffic light weights file from my Google Drive ([Google Drive](https://drive.google.com/file/d/1e_lDzJeaKTS4eYqmV1MY6hVqYR4q1t6Y/view?usp=sharing "Google Drive"))
+7. Download the traffic light weights file from my Google Drive ([Google Drive](https://drive.google.com/file/d/1a-FObXIcFvY6z2EgJ1egAiJAeDulJ3S5/view?usp=sharing "Google Drive"))
 8. Put the .weights file into the same folder as the rest of the files (DON'T rename any of the files, because then the code won't work)
 9. Put the video of your choosing (.mp4) into the same folder as the rest of the files
 10. Open the 'Object_Detection.py' file with any code editor of your choosing (I use Visual Studie Code)
